@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129785253020",
+    "project_id": "skilmap",
+    "storage_bucket": "skilmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129785253020:android:e3f2d9ec7ac8f5e861b159",
+        "android_client_info": {
+          "package_name": "com.nitesh.skilmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129785253020-nevo0fm775n6pdnbo1r6p2f7voceol5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitesh.skilmap",
+            "certificate_hash": "42d2cdc1efb9eebf5027b61236475debd3883af2"
+          }
+        },
+        {
+          "client_id": "129785253020-0gmd4eadgvs5fgv106j1lm0e0jaauej9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOllnVZl-lYlkgmqjpR84OqY1NBvyRGKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129785253020-0gmd4eadgvs5fgv106j1lm0e0jaauej9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
